@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M.Sangeerthan</h1>
 <h3 align="center">An 3rd year Undergraduate passionate about technology.</h3>
 
-- 🌱 I’m currently learning **Kotlin, ReactNative**
+- 🌱 I’m currently learning **Springboot, ReactNative**
 
 - 📝 I regularly write articles on [https://medium.com/@sms99sangeerthan](https://medium.com/@sms99sangeerthan)
 
