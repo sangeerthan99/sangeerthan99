@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sms99sangeerthan](https://medium.com/@sms99sangeerthan)
 
--👋  Visit My  [Portfolio](https://sangeerthan.netlify.app/)
+- 👋  Visit My  [Portfolio](https://sangeerthan.netlify.app/)
 
 - 📫 How to reach me **sms99sangeerthan@gmail.com**
 
